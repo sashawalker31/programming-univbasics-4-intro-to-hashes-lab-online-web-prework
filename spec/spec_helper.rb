@@ -21,4 +21,4 @@ def id_generator
 end
 
 def read_from_hash
-  read_from_hash={}
+  person=
