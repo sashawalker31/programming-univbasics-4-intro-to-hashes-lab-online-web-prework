@@ -27,6 +27,9 @@ def read_from_hash
 end
 
 def update_counting_hash
-  {:id => "2"}
+ person= {name:"Sarah"}
+ person[:race]
+ person[:race]="african american"
+ end
   
   
