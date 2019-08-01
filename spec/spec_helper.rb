@@ -11,3 +11,6 @@ end
 def my_hash
   my_hash = { :created=> time.now}
 end
+
+def pioneer
+  
