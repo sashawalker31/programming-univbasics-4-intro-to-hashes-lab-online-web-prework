@@ -7,3 +7,6 @@ RSpec.configure do |config|
   end
 
 end
+
+def my_hash
+  my_hash {
