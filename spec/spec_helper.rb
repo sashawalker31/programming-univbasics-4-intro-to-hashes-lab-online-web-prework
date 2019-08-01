@@ -13,14 +13,19 @@ def my_hash
 end
 
 def pioneer
-  pioneer={ :name = 'Grace Hopper'}
+  { :name = 'Grace Hopper'}
 end
 
 def id_generator
-  id_generator={:id = "2"}
+  {:id = "2"}
 end
 
 def read_from_hash
   person= { name:"Sam"}
   person[:hometown]
   person[:hometown]="New Orleans"
+end
+
+def update_counting_hash
+  {:id =>}
+  
