@@ -23,4 +23,4 @@ end
 def read_from_hash
   person= { name:"Sam"}
   person[:hometown]
-  
+  person[:hometown]="New Orleans"
