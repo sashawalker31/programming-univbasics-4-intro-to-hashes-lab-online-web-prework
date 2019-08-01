@@ -9,4 +9,5 @@ RSpec.configure do |config|
 end
 
 def my_hash
-  my_hash = { :created=>
+  my_hash = { :created=> time.now}
+end
