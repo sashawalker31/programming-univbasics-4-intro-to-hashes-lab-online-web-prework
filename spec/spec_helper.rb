@@ -9,8 +9,8 @@ RSpec.configure do |config|
 end
 
 def my_hash
-  my_hash = { name: = Sam}
+  my_hash = { name: = "Sam"}
 end
 
 def pioneer
-  
+  pioneer={ :name = 'Grace Hopper'}
