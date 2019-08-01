@@ -17,4 +17,8 @@ def pioneer
 end
 
 def id_generator
-  id_generator={:id= }
+  id_generator={:id = "2"}
+end
+
+def read_from_hash
+  read_from_hash={}
